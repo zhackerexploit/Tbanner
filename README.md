@@ -12,7 +12,8 @@
 * ```apt install git -y```
 * ```git clone https://github.com/htr-tech/Tbanner```
 * ```cd Tbanner```
-* ```bash setup.sh```
+* ```chmod +x setup.sh```
+* ```bash setup.sh``` or ```./setup.sh```
 ## [~] Input Your Name & Restart The App
 ### Or ; Use Single Command
 ```
